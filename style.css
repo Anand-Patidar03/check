@@ -1,18 +1,17 @@
-h1{
-    color: blue;
+h1 {
+  color: blue;
 }
-button{
-    color :darkgreen;
+button {
+  color: darkgreen;
 }
-body{
-    background-color: #ffff00;
+body {
+  background-color: #ffff00;
 }
-button{
-    background-color: red;
-} 
-nav{
-    height: 50px;
-    width: 50px;
-    color: aqua;
-    
+button {
+  background-color: red;
+}
+nav {
+  height: 50px;
+  width: 50px;
+  color: aqua;
 }
