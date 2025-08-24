@@ -13,5 +13,7 @@ button {
 nav {
   height: 2rem;
   width: 2vw;
+  height: 2vh;
+  width: 2vh;
   color: aqua;
 }
